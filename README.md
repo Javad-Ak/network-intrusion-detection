@@ -38,9 +38,9 @@ The F1 Macro score is the most critical metric here, as it provides a better mea
 
 The confusion matrices below provide a detailed view of each model's classification performance across all five categories.
 
-| Random Forest                                                                                                       | XGBoost                                             | Neural Network                                    |
-|---------------------------------------------------------------------------------------------------------------------| --------------------------------------------------- |---------------------------------------------------|
-| ![RF CM](https://github.com/Javad-Ak/network-intrusion-detection/blob/main/results/figures/RF_confusion_matrix.png) | ![XGB CM](https://github.com/Javad-Ak/network-intrusion-detection/blob/main/results/figures/XGBoost_confusion_matrix.png) | ![NN CM](https://github.com/Javad-Ak/network-intrusion-detection/blob/main/results/figures/NN_confusion_matrix.png) |
+| Random Forest                                                                                                                  | XGBoost                                             | Neural Network                                                                                                                  |
+|--------------------------------------------------------------------------------------------------------------------------------| --------------------------------------------------- |---------------------------------------------------------------------------------------------------------------------------------|
+| ![RF CM](https://github.com/Javad-Ak/network-intrusion-detection/blob/main/results/figures/Random_Forest_confusion_matrix.png) | ![XGB CM](https://github.com/Javad-Ak/network-intrusion-detection/blob/main/results/figures/XGBoost_confusion_matrix.png) | ![NN CM](https://github.com/Javad-Ak/network-intrusion-detection/blob/main/results/figures/Neural_Network_confusion_matrix.png) |
 
 As shown, the XGBoost model demonstrates superior performance in correctly identifying.
 
